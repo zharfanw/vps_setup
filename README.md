@@ -1,2 +1,4 @@
-# vps_setup
-Terminal Script for setup
+# Terminal Scripts for setup VPS
+
+## For Ubuntu Server VPS
+
