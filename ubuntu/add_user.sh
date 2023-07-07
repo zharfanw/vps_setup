@@ -1,5 +1,5 @@
-username ="kagok"
-password ="kagokpass"
+username="kagok"
+password="kagokpass"
 
 echo "Add USER ..."
 
