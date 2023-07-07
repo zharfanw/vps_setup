@@ -3,7 +3,7 @@ password="kagokpass"
 
 echo "Add USER ..."
 
-# echo $username:$password 
+echo $username:$password 
 a=10
 b=20
 
