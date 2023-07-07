@@ -1,2 +1,2 @@
 
-echo $username:$password | /usr/sbin/chpasswd
+echo $username:$password 
