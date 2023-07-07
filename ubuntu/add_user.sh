@@ -1,6 +1,8 @@
-echo "Add USER ..."
 username ="kagok"
 password ="kagokpass"
+
+echo "Add USER ..."
+
 # echo $username:$password 
 a=10
 b=20
